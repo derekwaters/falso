@@ -104,6 +104,7 @@ export { randLocale } from './lib/locale';
 export { randLongitude } from './lib/longitude';
 export { randMac } from './lib/mac';
 export { randMask } from './lib/mask';
+export { randMediaOutlet } from './lib/media-outlet';
 export { randMimeType } from './lib/mime-type';
 export { randMonth } from './lib/month';
 export { randMotorcylceManufacturer } from './lib/motorcycle-manufacturer';
